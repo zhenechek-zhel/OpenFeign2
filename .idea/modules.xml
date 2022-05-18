@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenFeign2.iml" filepath="$PROJECT_DIR$/OpenFeign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceA/ServiceA.iml" filepath="$PROJECT_DIR$/ServiceA/ServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SrviceB/SrviceB.iml" filepath="$PROJECT_DIR$/SrviceB/SrviceB.iml" />
+    </modules>
+  </component>
+</project>
